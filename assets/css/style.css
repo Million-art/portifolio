@@ -432,7 +432,7 @@ section {
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
-}
+ }
 
 .portfolio #portfolio-flters {
   padding: 0;
@@ -467,6 +467,7 @@ section {
 }
 
 .portfolio .portfolio-wrap {
+   
   transition: 0.3s;
   position: relative;
   overflow: hidden;
